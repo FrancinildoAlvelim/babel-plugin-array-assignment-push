@@ -29,3 +29,11 @@ const run = () => {
 };
 run();
 ```
+#### Test:
+
+1 - `git clone https://github.com/FrancinildoAlvelim/babel-plugin-array-unary-push.git`
+
+2 - run `npm install` in the cloned directory
+
+3 - `npm test`
+
