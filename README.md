@@ -1,6 +1,6 @@
 #### Babel plugin unary push
 
-<p>⚠️ Important: Don't use it in production, is just proof of concept made for fun when i was learning how Babel plugins works :] </p>
+Important: Don't use it in production, is just proof of concept made for fun when i was learning how Babel plugins works :]
 
 This plugin allows to use '=+' to push an element in a given array
 
