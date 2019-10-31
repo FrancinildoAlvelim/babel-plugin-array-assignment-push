@@ -4,7 +4,7 @@ Important: Don't use it in production, is just proof of concept made for fun whe
 
 This plugin allows to use '=+' to push an element in a given array
 
-####Example:
+#### Example:
 ```javascript
 const run = () => {
   const givenArray = [];
@@ -16,7 +16,7 @@ const run = () => {
 };
 run();
 ```
-####Equivalent to:
+#### Equivalent to:
 
 ```javascript
 const run = () => {
