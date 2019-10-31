@@ -1,8 +1,8 @@
-#### Babel plugin unary push
+#### Babel plugin assignment push
 
 Important: Don't use it in production, is just proof of concept made for fun when i was learning how Babel plugins works :]
 
-This plugin allows to use '=+' to push an element in a given array
+This plugin allows to use '=+' operator to push some element in a given array
 
 #### Example:
 ```javascript
@@ -31,7 +31,7 @@ run();
 ```
 #### Test:
 
-1 - `git clone https://github.com/FrancinildoAlvelim/babel-plugin-array-unary-push.git`
+1 - `git clone https://github.com/FrancinildoAlvelim/babel-plugin-array-assignment-push.git`
 
 2 - run `npm install` in the cloned directory
 
