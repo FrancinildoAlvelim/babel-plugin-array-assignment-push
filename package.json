@@ -1,16 +1,16 @@
 {
-	"name": "babel-plugin-array-unary-push",
-	"version": "1.0.0",
-	"description": "",
-	"scripts": {
-		"test": "babel ./test --out-file dist.js && node dist.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/FrancinildoAlvelim/babel-plugin-array-unary-push.git"
-	},
-	"homepage": "https://github.com/FrancinildoAlvelim/babel-plugin-array-unary-push#readme",
-	"dependencies": {
-		"babel-cli": "^6.26.0"
-	}
+  "name": "babel-plugin-array-unary-push",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "babel ./test --out-file dist.js && node dist.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancinildoAlvelim/babel-plugin-array-unary-push.git"
+  },
+  "homepage": "https://github.com/FrancinildoAlvelim/babel-plugin-array-unary-push#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0"
+  }
 }
