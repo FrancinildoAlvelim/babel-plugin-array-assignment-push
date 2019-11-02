@@ -2,7 +2,7 @@
 
 Important: Don't use it in production, is just proof of concept made for fun when i was learning how Babel plugins works :]
 
-This plugin allows to use '=+' operator to push some element in a given array
+This plugin allows to use '+=' operator to push some element in a given array
 
 #### Example:
 ```javascript
