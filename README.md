@@ -36,4 +36,3 @@ run();
 2 - run `npm install` in the cloned directory
 
 3 - `npm test`
-
